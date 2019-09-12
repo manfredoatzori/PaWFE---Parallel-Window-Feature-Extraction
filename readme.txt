@@ -23,6 +23,6 @@ wininc = window increment (Delsys suggested: wininc=20;)
 The code include fast signal feature extraction algorithms that can extract widely used features and allow researchers to easily add new ones.
 
 In case you use this code, please cite the following papers:
-Atzori M., Müller H. (2019), Fast signal feature extraction using parallel time windows. Frontiers in Neurorobotics. (submitted).
+Atzori Manfredo, Müller Henning, PaWFE: Fast Signal Feature Extraction Using Parallel Time Windows, Frontiers in Neurorobotics, 13, 74, 2019 (DOI=10.3389/fnbot.2019.00074)
 Chan, A. D. C., and Green, G. C. (2017). Myoelectric control development toolbox. CMBES. Proc. 30.
 http://www.sce.carleton.ca/faculty/chan/matlab/myoelectric%20control%20development%20toolbox.pdf
